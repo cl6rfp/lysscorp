@@ -1,4 +1,3 @@
-class Development(Config):
     OWNER_ID = 808305342 # Su ID de telegram.
     OWNER_USERNAME = "hatake_sempai" # Su nombre de usuario de telegram.
     API_KEY = "5331784189:AAHQ8To-s-RibVY3aFokaJ9dXPtAkUVLA_s" # Su clave api, tal como la proporciona @botfather.
