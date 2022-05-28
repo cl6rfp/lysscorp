@@ -1,5 +1,3 @@
-from MeguBot.sample_config import Config
-
 class Development(Config):
     OWNER_ID = 808305342 # Su ID de telegram.
     OWNER_USERNAME = "hatake_sempai" # Su nombre de usuario de telegram.
