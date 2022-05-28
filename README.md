@@ -11,6 +11,8 @@ Se puede encontrar en telegram como [MeguBot](https://t.me/MeguABR_Bot).
 
 Puede comunicarse con el grupo de soporte en [Megu Support](https://t.me/MeguSupport), donde puede solicitar ayuda sobre @MeguABR_Bot, descubrir/solicitar nuevas funciones, informar errores y mantenerse informado cuando sea hay una nueva actualización disponible.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Rose-Bot)<br>
+
 ## Cómo configurar/implementar.
 
 ### Lea estas notas detenidamente antes de continuar
